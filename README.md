@@ -25,6 +25,7 @@
 * 🐝 Ex-president of Bee Keeping Society
 * 💻 Founding Member of Cyber Security Society
 * 🏦 Won £1500 from the Deloitte CTF event
+* Ex-#2 on TryHackMe.com
 
 #### 📖 My 3 core values
 If you want to work with me, express how you meet these values in an email! 😜
