@@ -29,11 +29,11 @@
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/python.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/rustt.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/ai.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="bash" style="vertical-align:top; margin:4px">
 
 ---
 
