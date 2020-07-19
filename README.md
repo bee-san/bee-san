@@ -1,24 +1,67 @@
-```
-                  _(_)_                          wWWWw   _
-      @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
-     @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)
-      @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\
-       /      Y       \|    \|/    /(_)    \|      |/      |
-    \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
-    \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Bee :wave:
+    <br><br>
+    I work as an AI & PenTesting app developer, and also a community mentor for TryHackMe :sparkles:
+    <br><br>
+    My destiny in life is to help others :grin:
+    <br><br>
+    P.S. I'm not sure whether I have more plants or lines of code as this point :shrug:
+  </samp>
+</p>
 
-### Hi there 👋
+<br>
 
-#### 🔭 I’m currently working on
-😄 [Ciphey](https://github.com/Ciphey/Ciphey) automated decryptiion tool using natural language processing & artifical intelligence, along with some common sense.  
-✨ [Skerritt.blog](https://skerritt.blog) My 2+ million views blog.
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+  
+[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=brandonskerritt)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 📖 My 3 core values
-If you want to work with me, express how you meet these values in an email! 😜
-1. Helping People 🦮
-2. To help people for free 💸
-3. Accessible to everyone 🦽
+---
 
-#### 📱 How to contact me
-Brandon@skerritt.blog
+### - Languages and Tools...
+
+<p align="center">
+
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/python.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/rustt.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+
+---
+
+</p>
+
+### - I'm currently...
+
+- Working on [Ciphey](https://github.com/ciphey/ciphey)
+- Working on [RustScan](https://github.com/brandonskerritt/rustscan)
+- Competing in world-wide CTFs with [CatsGetRoot](https://github.com/catsgetroot)
+- Mentoring newbie pentesters at [TryHackMe.com](https://tryhackme.com)
+- Writing for my 2 million views blog at [Skerritt.blog](https://skerritt.blog)
+
+---
+
+</details>
+
+<p align="center"> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brandonls"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/brandon.codes"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/brandon_skerrit"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+&nbsp; &nbsp;
+</p>
+
+<p align="center">
+  <i> Open to anything under the stars :sparkles: </i>
+</p>
