@@ -4,7 +4,7 @@
   <samp>
     I'm Bee :wave:
     <br><br>
-    I work in AI & PenTesting, and also a community mentor for TryHackMe :sparkles:
+    I work in AI & PenTesting, and also a community mentor for TryHackMe (ex-#2) :sparkles:
     <br><br>
     My destiny in life is to help others :grin:
     <br><br>
