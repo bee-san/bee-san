@@ -18,8 +18,6 @@
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
-  
-[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=brandonskerritt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
