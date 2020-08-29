@@ -45,6 +45,11 @@
 - Mentoring newbie pentesters at [TryHackMe.com](https://tryhackme.com)
 - Writing for my 2 million views blog at [Skerritt.blog](https://skerritt.blog)
 
+**Inventor of Ciphey**
+[![Stargazers over time](https://starchart.cc/Ciphey/Ciphey.svg)](https://starchart.cc/Ciphey/Ciphey)
+**Inventor of RustScan**
+[![Stargazers over time](https://starchart.cc/RustScan/RustScan.svg)](https://starchart.cc/RustScan/RustScan)
+
 ---
 
 </details>
