@@ -5,7 +5,7 @@
     <br><br>
     I work in AI & PenTesting, and also a moderator for TryHackMe (ex-#2 on the leaderboard) :sparkles:
     <br><br>
-    My destiny in life is to help others :grin:
+    Inventor of Ciphey, and RustScan. My destiny in life is to help others :grin:
     <br><br>
     P.S. I'm not sure whether I have more plants or lines of code as this point :shrug:
   </samp>
