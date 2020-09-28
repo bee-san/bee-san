@@ -58,8 +58,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brandonls"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/brandon_skerrit"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/social_media_svgs/linkedin-round.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/social_media_svgs/twitter-round.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 &nbsp; &nbsp;
 </p>
 
