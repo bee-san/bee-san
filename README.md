@@ -57,10 +57,10 @@
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
+
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/social_media_svgs/linkedin-round.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/social_media_svgs/twitter-round.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-&nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/brandonls"><img src="iconmonstr-linkedin-4.png" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+    <a href="https://www.twitter.com/bee-sec-san"><img src="iconmonstr-twitter-4.png" width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
