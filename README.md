@@ -59,7 +59,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brandonls"><img src="iconmonstr-linkedin-4.png" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  &nbsp; &nbsp;
     <a href="https://www.twitter.com/bee-sec-san"><img src="iconmonstr-twitter-4.png" width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 </p>
 
