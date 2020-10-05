@@ -60,7 +60,7 @@
 
 <p align="center">
   &nbsp; &nbsp;
-    <a href="https://www.twitter.com/bee-sec-san"><img src="iconmonstr-twitter-4.png" width="35px" alt="Twitter"></a> &nbsp; &nbsp;
+    <a href="https://twitter.com/bee_sec_san"><img src="iconmonstr-twitter-4.png" width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
