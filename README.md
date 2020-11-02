@@ -3,7 +3,7 @@
   <samp>
     I'm Bee :wave:
     <br><br>
-    I work in AI & PenTesting, and also a moderator for @TryHackMe (ex-#2 on the leaderboard) and SecArmy :sparkles:
+    Lead Moderator Subreddit / Discord Moderator for @TryHackMe (ex-#2 on the leaderboard) and SecArmy :sparkles:
     <br><br>
     Inventor of Ciphey, and RustScan. My destiny in life is to help others :grin:
     <br><br>
