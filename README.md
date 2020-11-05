@@ -1,68 +1,39 @@
-<p align="center">
-  <br><br>
-  <samp>
-    I'm Bee :wave:
-    <br><br>
-    Lead Moderator Subreddit / Discord Moderator for @TryHackMe (ex-#2 on the leaderboard) and SecArmy :sparkles:
-    <br><br>
-    Inventor of Ciphey, and RustScan. My destiny in life is to help others :grin:
-    <br><br>
-    P.S. I'm not sure whether I have more plants or lines of code as this point :shrug:
-  </samp>
-</p>
-
-<br>
-
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-
----
-
-### - Languages and Tools...
-
-<p align="center">
-
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/ai.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="bash" style="vertical-align:top; margin:4px">
-
----
-
-</p>
-
-### - I'm currently...
-
-- Working on [Ciphey](https://github.com/ciphey/ciphey)
-- Working on [RustScan](https://github.com/brandonskerritt/rustscan)
-- Competing in world-wide CTFs with [CatsGetRoot](https://github.com/catsgetroot)
-- Mentoring newbie pentesters at [TryHackMe.com](https://tryhackme.com)
-- Writing for my 2 million views blog at [Skerritt.blog](https://skerritt.blog)
-
-**Inventor of Ciphey**
-[![Stargazers over time](https://starchart.cc/Ciphey/Ciphey.svg)](https://starchart.cc/Ciphey/Ciphey)
-**Inventor of RustScan**
-[![Stargazers over time](https://starchart.cc/RustScan/RustScan.svg)](https://starchart.cc/RustScan/RustScan)
-
----
-
-</details>
-
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
+<div align="center">
+  <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+ 
+<p align='center'> 
+<a href="https://www.linkedin.com/in/brandonls/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/bee_sec_san"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/brandonskerritt"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 
 
-<p align="center">
-  &nbsp; &nbsp;
-    <a href="https://twitter.com/bee_sec_san"><img src="iconmonstr-twitter-4.png" width="35px" alt="Twitter"></a> &nbsp; &nbsp;
-</p>
+<div align="center">
+<h3> 🐝 Bee | 💻 Software Engineer | 🌏 London, UK </h3> 
+</div>
 
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
-</p>
+### About me 
+
+- 🎖 Lead Subreddit Mod at [TryHackMe](https://tryhackme.com)
+- 👀 I talk about all things tech related [here](https://skerritt.blog/) 
+- ⚡ Inventor of [RustScan](https://github.com/rustscan/rustscan) & [Ciphey](https://github.com/ciphey/ciphey)
+- 🎓 Graduate Computer Scientist with Honours from a Russel Group University
+- 🤖 Artifical Intelligence, Penetration Testing & Software Engineering
+- 💭 Let's get to know each other 
+
+### Checkout my Blog Posts on [here](https://skerritt.blog) & [Dev.to](https://dev.to/brandonskerritt)
+
+
+<div align="center">
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bee-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+<!--
+**trinwin/trinwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Also I stole this off of Trinity this is 100% theirs.
+-->
