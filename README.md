@@ -21,7 +21,7 @@
 - 🤖 Artifical Intelligence, Penetration Testing & Software Engineering
 - 💭 Let's get to know each other 
 
-### Checkout my Blog Posts on [here](https://skerritt.blog) & [Dev.to](https://dev.to/brandonskerritt)
+### Checkout my Blog Posts [here](https://skerritt.blog) & [Dev.to](https://dev.to/brandonskerritt)
 
 
 <div align="center">
