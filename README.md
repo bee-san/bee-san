@@ -18,7 +18,7 @@
 - 👀 I talk about all things tech related [here](https://skerritt.blog/) 
 - ⚡ Inventor of [RustScan](https://github.com/rustscan/rustscan) & [Ciphey](https://github.com/ciphey/ciphey)
 - 🎓 Graduate Computer Scientist with Honours from a Russel Group University
-- 🤖 Artifical Intelligence, Penetration Testing & Software Engineering
+- 🤖 Artificial Intelligence, Penetration Testing & Software Engineering
 - 💭 Let's get to know each other 
 
 ### Checkout my Blog Posts [here](https://skerritt.blog) & [Dev.to](https://dev.to/brandonskerritt)
