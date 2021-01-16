@@ -17,7 +17,7 @@
 - 🎖 Lead Subreddit Mod at [TryHackMe](https://tryhackme.com)
 - 👀 I talk about all things tech related [here](https://skerritt.blog/) 
 - ⚡ Inventor of [RustScan](https://github.com/rustscan/rustscan) & [Ciphey](https://github.com/ciphey/ciphey)
-- 🎓 Graduate Computer Scientist with Honours from a Russel Group University
+- 🎓 Graduate Computer Scientist with Honours from UoL
 - 🤖 Artificial Intelligence, Penetration Testing & Software Engineering
 - 💭 Let's get to know each other 
 
