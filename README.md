@@ -28,6 +28,7 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
+PS: HTML / CSS / JS is because of my static blog.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bee-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
