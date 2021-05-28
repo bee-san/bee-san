@@ -14,13 +14,13 @@
 
 ### About me 
 
-- 🎖 Lead Subreddit Mod at [TryHackMe](https://tryhackme.com)
-- 👀 I talk about all things tech related [here](https://skerritt.blog/) 
-- ⚡ Inventor of [RustScan](https://github.com/rustscan/rustscan) & [Ciphey](https://github.com/ciphey/ciphey)
-- 🎓 Graduate Computer Scientist with Honours from UoL
-- 💭 Let's get to know each other 
+- 🎖  Lead Subreddit Mod at [TryHackMe](https://tryhackme.com).
+- 👀  I talk about all things tech related [here](https://skerritt.blog/).
+- ⚡  Inventor of [RustScan](https://github.com/rustscan/rustscan), [Ciphey](https://github.com/ciphey/ciphey), [Name-That-Hash](https://github.com/HashPals/Name-That-Hash), [Search-That-Hash](https://github.com/HashPals/Search-That-Hash), and [PyWhat](https://github.com/bee-san/pyWhat).
+- 🎓  Graduate Computer Scientist with Honours from UoL.
+- 💭  Let's get to know each other.
 
-### Checkout my Blog Posts [here](https://skerritt.blog) & [Dev.to](https://dev.to/brandonskerritt)
+Checkout my Blog Posts [here](https://skerritt.blog) & [Dev.to](https://dev.to/brandonskerritt)
 
 
 <div align="center">
