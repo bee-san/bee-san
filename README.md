@@ -18,7 +18,6 @@
 - 👀 I talk about all things tech related [here](https://skerritt.blog/) 
 - ⚡ Inventor of [RustScan](https://github.com/rustscan/rustscan) & [Ciphey](https://github.com/ciphey/ciphey)
 - 🎓 Graduate Computer Scientist with Honours from UoL
-- 🤖 Artificial Intelligence, Penetration Testing & Software Engineering
 - 💭 Let's get to know each other 
 
 ### Checkout my Blog Posts [here](https://skerritt.blog) & [Dev.to](https://dev.to/brandonskerritt)
@@ -27,11 +26,6 @@
 <div align="center">
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-
-PS: HTML / CSS is because of my static blog.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bee-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
 <!--
