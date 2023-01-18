@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<h3> 🐝 Bee | 💻 Software Engineer | 🌏 London, UK </h3> 
+<h3> 🐝 Autumn | 💻 Software Engineer | 🌏 London, UK </h3> 
 </div>
 
 ### About me 
