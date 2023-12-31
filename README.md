@@ -5,8 +5,6 @@
 <p align='center'> 
 <a href="https://www.linkedin.com/in/brandonls/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/bee_sec_san"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/brandonskerritt"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
-
 
 <div align="center">
 <h3> 🐝 Autumn | 💻 Software Engineer | 🌏 London, UK </h3> 
@@ -20,7 +18,9 @@
 - 🎓  Graduate Computer Scientist with Honours from UoL.
 - 💭  Let's get to know each other.
 
-Checkout my Blog Posts [here](https://skerritt.blog) & [Dev.to](https://dev.to/brandonskerritt)
+Checkout my Blog Posts [here](https://skerritt.blog)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align="center">
