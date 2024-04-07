@@ -7,10 +7,12 @@
 <a href="https://twitter.com/bee_sec_san"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 🐝 Autumn | 💻 Software Engineer | 🌏 London, UK </h3> 
+<h3> 🐝 Autumn | 💻 Site Reliability Security Engineer | 🌏 London, UK </h3> 
 </div>
 
 ### About me 
+
+I do site reliabiltiy security engineering with a focus on identity & access management.
 
 - 🎖  Lead Subreddit Mod at [TryHackMe](https://tryhackme.com).
 - 👀  I talk about all things tech related [here](https://skerritt.blog/).
