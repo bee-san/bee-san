@@ -1,3 +1,5 @@
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/cryptolake/cryptolake/master/mandel.jpg');]{x0000}$}
+
 <div align="center">
   <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
