@@ -22,6 +22,12 @@ I do site reliabiltiy security engineering with a focus on identity & access man
 
 Checkout my Blog Posts [here](https://skerritt.blog)
 
+Author of:
+    CVE-2024-32152 - LaTeX Blocklist Bypass vulnerability
+    CVE-2024-29073 - Latex Incomplete Blocklist Vulnerability
+    CVE-2024-32484 - Flask Invalid Path Reflected Cross-Site Scripting (XSS) vulnerability
+    CVE-2024-26020 - MPV script injection vulnerability
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
