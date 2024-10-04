@@ -14,22 +14,20 @@
 
 I do site reliabiltiy security engineering with a focus on identity & access management.
 
-- 🎖  Lead Subreddit Mod at [TryHackMe](https://tryhackme.com).
 - 👀  I talk about all things tech related [here](https://skerritt.blog/).
 - ⚡  Inventor of [RustScan](https://github.com/rustscan/rustscan), [Ciphey](https://github.com/ciphey/ciphey), [Name-That-Hash](https://github.com/HashPals/Name-That-Hash), [Search-That-Hash](https://github.com/HashPals/Search-That-Hash), and [PyWhat](https://github.com/bee-san/pyWhat).
 - 🎓  Graduate Computer Scientist with Honours from UoL.
+- 🎖  ex-Lead Subreddit at [TryHackMe](https://tryhackme.com).
 - 💭  Let's get to know each other.
 
 Checkout my Blog Posts [here](https://skerritt.blog)
 
 Author of:
-    CVE-2024-32152 - LaTeX Blocklist Bypass vulnerability
-    CVE-2024-29073 - Latex Incomplete Blocklist Vulnerability
-    CVE-2024-32484 - Flask Invalid Path Reflected Cross-Site Scripting (XSS) vulnerability
-    CVE-2024-26020 - MPV script injection vulnerability
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
+* CVE-2024-32152 - LaTeX Blocklist Bypass vulnerability
+* CVE-2024-29073 - Latex Incomplete Blocklist Vulnerability
+* CVE-2024-32484 - Flask Invalid Path Reflected Cross-Site Scripting (XSS) vulnerability
+* CVE-2024-26020 - MPV script injection vulnerability
 
 <div align="center">
 
