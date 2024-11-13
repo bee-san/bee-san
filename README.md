@@ -12,13 +12,12 @@
 
 ### About me 
 
-I do site reliabiltiy security engineering with a focus on identity & access management.
+I do site reliabiltiy security engineering with a focus on security.
 
 - 👀  I talk about all things tech related [here](https://skerritt.blog/).
 - ⚡  Inventor of [RustScan](https://github.com/rustscan/rustscan), [Ciphey](https://github.com/ciphey/ciphey), [Name-That-Hash](https://github.com/HashPals/Name-That-Hash), [Search-That-Hash](https://github.com/HashPals/Search-That-Hash), and [PyWhat](https://github.com/bee-san/pyWhat).
 - 🎓  Graduate Computer Scientist with Honours from UoL.
-- 🎖  ex-Lead Subreddit at [TryHackMe](https://tryhackme.com).
-- 💭  Let's get to know each other.
+- 🎖  ex-Lead Subreddit at [TryHackMe](https://tryhackme.com), ex-top 3 player, ex-original discord mod taking subreddit from 5k members to 300k
 
 Checkout my Blog Posts [here](https://skerritt.blog)
 
@@ -30,9 +29,6 @@ Author of:
 * CVE-2024-26020 - MPV script injection vulnerability
 
 <div align="center">
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/cryptolake/cryptolake/master/mandel.jpg');]{x0000}$}
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
