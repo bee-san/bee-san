@@ -19,7 +19,7 @@ I do site reliabiltiy security engineering with a focus on security.
 - 🎓  Graduate Computer Scientist with Honours from UoL.
 - 🎖  ex-Lead Subreddit at [TryHackMe](https://tryhackme.com), ex-top 3 player, ex-original discord mod growing it from 5k members to 300k
 
-Checkout my Blog Posts [here](https://skerritt.blog)
+Checkout my Blog Posts [here](https://skerritt.blog/tag/popular/)
 
 Author of:
 
@@ -27,6 +27,8 @@ Author of:
 * CVE-2024-29073 - Latex Incomplete Blocklist Vulnerability
 * CVE-2024-32484 - Flask Invalid Path Reflected Cross-Site Scripting (XSS) vulnerability
 * CVE-2024-26020 - MPV script injection vulnerability
+
+in my spare time I learn japanese, run (ask for my strava), climb and cross stitch
 
 <div align="center">
 
