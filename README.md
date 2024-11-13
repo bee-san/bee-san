@@ -17,7 +17,7 @@ I do site reliabiltiy security engineering with a focus on security.
 - 👀  I talk about all things tech related [here](https://skerritt.blog/).
 - ⚡  Inventor of [RustScan](https://github.com/rustscan/rustscan), [Ciphey](https://github.com/ciphey/ciphey), [Name-That-Hash](https://github.com/HashPals/Name-That-Hash), [Search-That-Hash](https://github.com/HashPals/Search-That-Hash), and [PyWhat](https://github.com/bee-san/pyWhat).
 - 🎓  Graduate Computer Scientist with Honours from UoL.
-- 🎖  ex-Lead Subreddit at [TryHackMe](https://tryhackme.com), ex-top 3 player, ex-original discord mod taking subreddit from 5k members to 300k
+- 🎖  ex-Lead Subreddit at [TryHackMe](https://tryhackme.com), ex-top 3 player, ex-original discord mod growing it from 5k members to 300k
 
 Checkout my Blog Posts [here](https://skerritt.blog)
 
