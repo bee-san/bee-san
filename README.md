@@ -5,7 +5,7 @@
 <p align='center'> 
 
 <div align="center">
-<h3> 🐝 Autumn (Bee) | 💻 Site Reliability Security Engineer | 🌏 London, UK </h3> 
+<h3> 🐝 Autumn (Bee) | 💻 Site Reliability Security Engineer | 🌏 Tokyo / London </h3> 
 </div>
 
 ### About me 
@@ -25,7 +25,7 @@ Vulnerabilities I found:
 * CVE-2024-32152 - LaTeX Blocklist Bypass vulnerability
 * CVE-2024-29073 - Latex Incomplete Blocklist Vulnerability
 
-in my spare time I learn japanese, run (ask for my strava), climb and cross stitch
+in my spare time I learn japanese, run (ask for my strava), and climb
 
 <div align="center">
 
