@@ -23,7 +23,9 @@ Vulnerabilities I found:
 * CVE-2024-26020 - RCE MPV script injection vulnerability
 And a couple more (CVE-2024-32152, CVE-2024-29073)
 
-in my spare time I learn japanese, run (ask for my strava), and climb
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=bee-san"/>
+</p>
 
 <div align="center">
 
