@@ -16,6 +16,7 @@ Right now I'm unemployed, living in Tokyo :-)
 - 🎓  Graduate Computer Scientist with Honours from University of Liverpool
 - 🎖  ex-Lead Subreddit at [TryHackMe](https://tryhackme.com), ex-top 3 player, ex-original discord mod growing it from 5k members to 300k
 - 👀  I blog random stuff here [here](https://skerritt.blog/)
+- Previously at Cisco / Duo Security / Monzo
 
 Vulnerabilities I found:
 
