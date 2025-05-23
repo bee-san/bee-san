@@ -10,7 +10,7 @@
 
 ### About me 
 
-I do site reliabiltiy security engineering with a focus on security.
+Right now I'm unemployed, living in Tokyo :-)
 
 - ⚡  Inventor of [RustScan](https://github.com/rustscan/rustscan), [Ciphey](https://github.com/ciphey/ciphey), [Name-That-Hash](https://github.com/HashPals/Name-That-Hash), [Search-That-Hash](https://github.com/HashPals/Search-That-Hash), and [PyWhat](https://github.com/bee-san/pyWhat)
 - 🎓  Graduate Computer Scientist with Honours from University of Liverpool
