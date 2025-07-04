@@ -22,7 +22,7 @@ Vulnerabilities I found:
 
 * CVE-2024-32484 - Flask Invalid Path Reflected Cross-Site Scripting (XSS) vulnerability
 * CVE-2024-26020 - RCE MPV script injection vulnerability
-And a couple more (CVE-2024-32152, CVE-2024-29073)
+* And a couple more (CVE-2024-32152, CVE-2024-29073)
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=bee-san"/>
