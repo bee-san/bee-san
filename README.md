@@ -5,12 +5,10 @@
 <p align='center'> 
 
 <div align="center">
-<h3> 🐝 Autumn (Bee) | 💻 Site Reliability Security Engineer | 🌏 Tokyo / London </h3> 
+<h3> 🐝 Autumn (Bee) | 💻 Senior Systems Enginee @ Amazon | 🌏 Tokyo / London </h3> 
 </div>
 
 ### About me 
-
-Right now I'm unemployed, living in Tokyo :-)
 
 - ⚡  Inventor of [RustScan](https://github.com/rustscan/rustscan), [Ciphey](https://github.com/ciphey/ciphey), [Name-That-Hash](https://github.com/HashPals/Name-That-Hash), [Search-That-Hash](https://github.com/HashPals/Search-That-Hash), and [PyWhat](https://github.com/bee-san/pyWhat)
 - 🎓  Graduate Computer Scientist with Honours from University of Liverpool
