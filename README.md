@@ -5,7 +5,7 @@
 <p align='center'> 
 
 <div align="center">
-<h3> 🐝 Autumn (Bee) | 💻 Systems Engineer 2 @ Amazon | 🌏 Tokyo / London </h3>
+<h3> 🐝 Autumn (Bee) | 💻 Systems Engineer 2 @ Amazon Web Services | 🌏 Tokyo / London </h3>
 </div>
 
 ### About me 
