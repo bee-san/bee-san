@@ -28,14 +28,6 @@ Vulnerabilities I found:
 
 <div align="center">
 
-List of projects I'm passionate about that didn't make it to my top 6:
-1. Making the worlds first open source Hawaiian dictionary and digitising all other dictionaries for the first time ever
-2. Making the worlds fastest dictionary program
-3. Working on tooling to make it easier to learn languages from games
-4. In-browser PSP emulation with OCR
-5. Worlds fastest steg cracker
-6. 
-
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 </div>
