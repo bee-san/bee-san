@@ -33,7 +33,7 @@ npx --yes hyperframes@0.8.104 check
 npx --yes hyperframes@0.8.104 render --crf 20 --output ../out/about-me.mp4
 ```
 
-The script turns HyperFrames telemetry off (`HYPERFRAMES_NO_TELEMETRY=1`). To change the words, edit the scene markup in `video/index.html`. The timings are the numbers in its `<script>` (one block per scene). The composition has one variable, `twinkle` (default `true`). `build.sh` renders the preview GIF with `--variables '{"twinkle":false}'`, so the background stars hold still and the GIF stays under 5 MB. On this machine, rendering twice produced a byte-identical MP4.
+After re-rendering, commit the new MP4 and update the commit SHA in the README's ▶ link. That link plays the MP4 through jsDelivr, which serves it as `video/mp4`; GitHub serves repo files as downloads. The script turns HyperFrames telemetry off (`HYPERFRAMES_NO_TELEMETRY=1`). To change the words, edit the scene markup in `video/index.html`. The timings are the numbers in its `<script>` (one block per scene). The composition has one variable, `twinkle` (default `true`). `build.sh` renders the preview GIF with `--variables '{"twinkle":false}'`, so the background stars hold still and the GIF stays under 5 MB. On this machine, rendering twice produced a byte-identical MP4.
 
 ## How it works
 

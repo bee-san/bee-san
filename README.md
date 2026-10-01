@@ -65,10 +65,11 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
   <a href="https://www.linkedin.com/in/autumnskerritt/"><kbd>💼 linkedin</kbd></a>
 </p>
 
-<!-- about-me video: 30s intro made with HyperFrames, source + rebuild steps in media/about-me/ -->
+<!-- about-me video: 30s intro made with HyperFrames, source + rebuild steps in media/about-me/.
+     the ▶ link plays the mp4 committed in 5ed4bc3 (jsdelivr serves it as video/mp4, so it plays in the browser) -->
 <p align="center">
-  <a href="media/about-me/out/about-me.mp4"><img src="media/about-me/out/about-me-preview.gif" width="800" alt="A 30-second animated intro: Sailor Bee, Mew and a sleepy moon say hi, then cards for Ciphey, RustScan, pyWhat and Name-That-Hash with their stars, 50k+ stars, 4M+ downloads and 4 tools in Kali Linux, eight achievement badges, Japanese, Hawaiian and Thai language tools with Lilo and Stitch dancing the hula, and an end card with Stitch waving hi and links to github, skerritt.blog and X"></a><br>
-  <sub>▶ <a href="media/about-me/out/about-me.mp4">watch my 30-second intro</a> (mp4, 1080p) · made with <a href="https://hyperframes.heygen.com/">hyperframes</a> · <a href="media/about-me">source</a></sub>
+  <a href="https://cdn.jsdelivr.net/gh/bee-san/bee-san@5ed4bc3c9c75ffcc823b3db4e5a335a5957735fc/media/about-me/out/about-me.mp4"><img src="media/about-me/out/about-me-preview.gif" width="800" alt="A 30-second animated intro: Sailor Bee, Mew and a sleepy moon say hi, then cards for Ciphey, RustScan, pyWhat and Name-That-Hash with their stars, 50k+ stars, 4M+ downloads and 4 tools in Kali Linux, eight achievement badges, Japanese, Hawaiian and Thai language tools with Lilo and Stitch dancing the hula, and an end card with Stitch waving hi and links to github, skerritt.blog and X"></a><br>
+  <sub>▶ <a href="https://cdn.jsdelivr.net/gh/bee-san/bee-san@5ed4bc3c9c75ffcc823b3db4e5a335a5957735fc/media/about-me/out/about-me.mp4">watch my 30-second intro</a> (1080p) · <a href="media/about-me/out/about-me.mp4">download the mp4</a> · made with <a href="https://hyperframes.heygen.com/">hyperframes</a> · <a href="media/about-me">source</a></sub>
 </p>
 
 <p align="center"><img src="assets/divider.png" width="214" alt="Pixel-art hearts and sparkles divider"></p>
