@@ -34,7 +34,7 @@ ASSETS = HERE / "video" / "assets"
 CACHE = HERE / ".cache"
 
 GOOGLE_FONTS = "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb"
-NOTO_EMOJI = "✨🐝🗼💂⚡⭐📦🔗🛡🏛🏆👑🎤🔥🏁🚀👾🌺⏱💖💻📝🐦"
+NOTO_EMOJI = "✨🐝🗼💂⚡⭐📦🔗🛡🏛🏆👑🎤🔥🏁🚀🌺⏱💖💻📝"
 DOWNLOADS = {
     # fonts
     "Fredoka-VF.ttf": f"{GOOGLE_FONTS}/ofl/fredoka/Fredoka%5Bwdth,wght%5D.ttf",
@@ -67,7 +67,7 @@ SUBSETS = {
     "DotGothic16-Regular.ttf": ("dotgothic16.woff2", ASCII + "·日本語・♡→"),
     "Mali-SemiBold.ttf": ("mali.woff2", ASCII + "ภาษาไทย→"),
 }
-EMOJI = "✨🐝🗼💂⚡⭐📦🔗🛡🏛🏆👑🎤🔥🏁🚀👾🌺⏱💖💻📝🐦"
+EMOJI = "✨🐝🗼💂⚡⭐📦🔗🛡🏛🏆👑🎤🔥🏁🚀🌺⏱💖💻📝"
 
 
 def fetch(name):

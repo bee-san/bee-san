@@ -61,15 +61,14 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
 
 <p align="center">
   <a href="https://skerritt.blog"><kbd>📝 read my blog</kbd></a>&nbsp;
-  <a href="https://x.com/bee_sec_san"><kbd>🐦 @bee_sec_san</kbd></a>&nbsp;
   <a href="https://www.linkedin.com/in/autumnskerritt/"><kbd>💼 linkedin</kbd></a>
 </p>
 
-<!-- about-me video: 30s intro made with HyperFrames, source + rebuild steps in media/about-me/.
+<!-- about-me video: 46 s intro made with HyperFrames, source + rebuild steps in media/about-me/.
      the ▶ link plays the mp4 committed in 5ed4bc3 (jsdelivr serves it as video/mp4, so it plays in the browser) -->
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/bee-san/bee-san@5ed4bc3c9c75ffcc823b3db4e5a335a5957735fc/media/about-me/out/about-me.mp4"><img src="media/about-me/out/about-me-preview.gif" width="800" alt="A 30-second animated intro: Sailor Bee, Mew and a sleepy moon say hi, then cards for Ciphey, RustScan, pyWhat and Name-That-Hash with their stars, 50k+ stars, 4M+ downloads and 4 tools in Kali Linux, eight achievement badges, Japanese, Hawaiian and Thai language tools with Lilo and Stitch dancing the hula, and an end card with Stitch waving hi and links to github, skerritt.blog and X"></a><br>
-  <sub>▶ <a href="https://cdn.jsdelivr.net/gh/bee-san/bee-san@5ed4bc3c9c75ffcc823b3db4e5a335a5957735fc/media/about-me/out/about-me.mp4">watch my 30-second intro</a> (1080p) · <a href="media/about-me/out/about-me.mp4">download the mp4</a> · made with <a href="https://hyperframes.heygen.com/">hyperframes</a> · <a href="media/about-me">source</a></sub>
+  <a href="https://cdn.jsdelivr.net/gh/bee-san/bee-san@5ed4bc3c9c75ffcc823b3db4e5a335a5957735fc/media/about-me/out/about-me.mp4"><img src="media/about-me/out/about-me-preview.webp" width="800" alt="A 46-second animated intro with a progress bar along the bottom: Sailor Bee, Mew and a sleepy moon say hi; cards for Ciphey, RustScan, pyWhat and Name-That-Hash with their stars and downloads, then 50k+ stars, 4M+ downloads and 4 tools in Kali Linux; eight achievement badges; Japanese, Hawaiian and Thai language tools with Lilo and Stitch dancing the hula; and an end card where Stitch waves hi, with links to github and skerritt.blog"></a><br>
+  <sub>▶ <a href="https://cdn.jsdelivr.net/gh/bee-san/bee-san@5ed4bc3c9c75ffcc823b3db4e5a335a5957735fc/media/about-me/out/about-me.mp4">watch my intro</a> (46 s, 1080p) · <a href="media/about-me/out/about-me.mp4">download the mp4</a> · made with <a href="https://hyperframes.heygen.com/">hyperframes</a> · <a href="media/about-me">source</a></sub>
 </p>
 
 <p align="center"><img src="assets/divider.png" width="214" alt="Pixel-art hearts and sparkles divider"></p>
@@ -89,7 +88,7 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
   </tr>
   <tr>
     <td valign="top">🐉 <b>4 of my tools ship in kali linux</b><br><sub>rustscan, ciphey, name-that-hash &amp; pywhat</sub></td>
-    <td valign="top">🧑‍🍳 <b>cyberchef maintainer</b><br><sub>gchq's cyber swiss army knife, 36k ⭐</sub></td>
+    <td valign="top">🧑‍🍳 <b>cyberchef maintainer</b><br><sub>the cyber swiss army knife, 36k ⭐</sub></td>
   </tr>
   <tr>
     <td valign="top">🎤 <b>spoke at black hat</b><br><sub>ciphey @ black hat arsenal europe 2024</sub></td>
@@ -115,7 +114,7 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
   </tr>
   <tr>
     <td align="center">🌒<br><sub>2017–19</sub></td>
-    <td><b>uni girl</b> · computer science at liverpool on a gchq cyberfirst bursary, hackathons, <a href="https://github.com/bee-san/tldr-News">tl;dr news</a>, two books, and <b>ciphey is born</b> (july 2019)</td>
+    <td><b>uni girl</b> · computer science at liverpool on a cyberfirst bursary, hackathons, <a href="https://github.com/bee-san/tldr-News">tl;dr news</a>, two books, and <b>ciphey is born</b> (july 2019)</td>
   </tr>
   <tr>
     <td align="center">🌓<br><sub>2020</sub></td>
@@ -195,22 +194,27 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
 
 <h3 align="center">💌 things i've contributed to <img src="assets/stitch.gif" width="46" alt="Chibi Stitch in a Hawaiian shirt, blinking and doing a little hop"></h3>
 
-<p align="center"><samp>my open-source ʻohana ✦ nobody gets left behind</samp></p>
+<p align="center"><samp>my open-source ʻohana ✦</samp></p>
 
-- 🧑‍🍳 **[CyberChef](https://github.com/gchq/CyberChef)** <sub>⭐ 36k</sub> · gchq's "cyber swiss army knife" for encoding, encryption & data analysis · **maintainer**: i help triage issues & prs (and i run my own fork, [cyberfork](https://cyberfork.skerritt.blog/))
-- 🎮 **[GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner)** <sub>⭐ 859</sub> · immersion toolkit for learning languages through games & visual media · **#2 contributor, 300+ commits** (i built the stats pages!)
-- 📚 **[Mangatan](https://github.com/1Selxo/Mangatan)** <sub>⭐ 96</sub> · mangayomi fork with yomitan-style lookup, ocr overlays & anki export · **28 merged prs**
+- 🤖 **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** <sub>⭐ 250k</sub> · nous research's "agent that grows with you" · **5 prs**: bitwarden secret handling, env + config fixes & my user story, plus [a hermes skill that checks me into flights](https://github.com/bee-san/airplane-checkin-skill) ✈️
+- 🧑‍🍳 **[CyberChef](https://github.com/gchq/CyberChef)** <sub>⭐ 36k</sub> · the "cyber swiss army knife" for encoding, encryption & data analysis · **maintainer**: i help triage issues & prs
+- 🐙 **[Argo CD](https://github.com/argoproj/argo-cd)** <sub>⭐ 24k</sub> · declarative gitops continuous delivery for kubernetes · **oidc + sso contributions** (made off github)
 - 🌐 **[Yomitan](https://github.com/yomidevs/yomitan)** <sub>⭐ 2.9k</sub> · the pop-up dictionary browser extension, successor to yomichan · **added hawaiian 🌺 & welsh 🐉 support**, 7 merged prs
-- 🍵 **[Manabitan](https://github.com/ManabiIO/manabitan)** <sub>⭐ 21</sub> · pop-up dictionary browser extension for language learning · **12 merged prs**
-- ⭐ **[hoshidicts](https://github.com/Manhhao/hoshidicts)** <sub>⭐ 34</sub> · c++ library to import & query yomitan dictionaries · **7 merged prs** (+3 to its rust port)
+- 🎮 **[GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner)** <sub>⭐ 859</sub> · immersion toolkit for learning languages through games & visual media · **#2 contributor, 300+ commits** (i built the stats pages!)
 - 📱 **[Chimahon](https://github.com/Chimahon/chimahon)** <sub>⭐ 215</sub> · mihon immersion fork with native yomitan lookup & instant anki mining · **5 merged prs**
-- 🎬 **[SubMiner](https://github.com/ksyasuda/SubMiner)** <sub>⭐ 143</sub> · yomitan + mpv with one-click anki mining · **3 merged prs**
-- 🍬 **sprinkles** · little prs to [microsoft/edit](https://github.com/microsoft/edit), [github's advisory database](https://github.com/github/advisory-database), [owocr](https://github.com/AuroraWright/owocr), [lapis](https://github.com/donkuri/lapis), [texthooker-ui](https://github.com/Renji-XD/texthooker-ui), [awesome-rust](https://github.com/rust-unofficial/awesome-rust) & more · **130 merged prs to 32 other people's repos** in total
+- 🍬 **sprinkles** · [mangatan](https://github.com/1Selxo/Mangatan) (28 merged prs), [hoshidicts](https://github.com/Manhhao/hoshidicts) (7, +3 to its rust port), [subminer](https://github.com/ksyasuda/SubMiner) (3), plus little prs to [github's advisory database](https://github.com/github/advisory-database), [owocr](https://github.com/AuroraWright/owocr), [lapis](https://github.com/donkuri/lapis), [texthooker-ui](https://github.com/Renji-XD/texthooker-ui), [awesome-rust](https://github.com/rust-unofficial/awesome-rust) & more · **130 merged prs to 32 other people's repos** in total
 
 <h3 align="center">🔮 security magic</h3>
 
 - 🕳️ **[How I Hacked Your Pi-Hole](https://github.com/bee-san/How-I-Hacked-Your-Pi-Hole)** <sub>⭐ 200</sub> · made for my tryhackme room: of 5,308 public pi-holes on shodan, 100 were vulnerable
+- 🦑 **[StegKraken](https://github.com/StegKraken/StegKraken)** <sub>⭐ 29</sub> · "the world's fastest stegcracker": a steganography brute-forcer written in rust
+- 👾 **[The Ultimate Hacking Bot](https://github.com/bee-san/discord-bot)** <sub>⭐ 11</sub> · a [discord bot](https://skerritt.blog/the-ultimate-discord-hacking-bot/) packing ciphey, ares, lemmeknow & search-that-hash, used by 5,000+ people
+- 🍴 **[CyberFork](https://github.com/bee-san/CyberFork)** <sub>⭐ 8</sub> · my cyberchef fork with extra operations merged in, like base92, jq, modhex & x.509 output · [try it](https://cyberfork.skerritt.blog/)
+- ♿ **[awesome accessible hacking](https://github.com/bee-san/awesome-accessible-hacking)** <sub>⭐ 7</sub> · infosec tools & sites that are accessible, plus my guide to [making hacking accessible](https://skerritt.blog/making-hacking-accessible/)
 - 🔤 **[gibberish-or-not](https://github.com/bee-san/gibberish-or-not)** <sub>⭐ 2</sub> · rust crate that works out if text is english or gibberish (ciphey uses it!)
+- 🕵️ i [called out an ai company](https://skerritt.blog/screenpipe-ai-company-will-harvest-your-email-against-your-permission/) for adding people who starred its repo to its marketing emails
+- 🧅 security explainers on the blog: [how tor really works](https://skerritt.blog/how-does-tor-really-work/), [diffie–hellman–merkle](https://skerritt.blog/diffie-hellman-merkle/), [hash functions for non-cryptographers](https://skerritt.blog/hash-functions-explained-for-non-cryptographers/) & [wi-fi deauth attacks](https://skerritt.blog/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack/)
+- 🎓 certified **cissp** & **iso 27001 lead auditor**
 
 <p align="center"><samp>🐛 <a href="https://skerritt.blog/anki-0day/">vulnerabilities i found</a> with cisco talos · all in anki 24.04, so beware of strange flashcards! 🃏</samp></p>
 
@@ -230,14 +234,13 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
 
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><samp>🍓 fun facts i've blogged about</samp></p>
+<p align="center"><samp>🍓 fun facts</samp></p>
 
 - 🗼 i got a [japan working holiday visa as a trans woman](https://skerritt.blog/japan-working-holiday-documents/), then moved to japan to study japanese full time
-- ⏱️ [1,780 hours of japanese study](https://skerritt.blog/autumns-study-log-week-7/) by mid-2025 (and my first finished visual novel was [ツユチル・レター](https://skerritt.blog/visual-novel-review-tuyutirureta-hai-tokan-niyu-yin-wo/))
+- ⏱️ **4,704 hours** of [studying japanese](https://skerritt.blog/tag/japanese/) so far, and my first finished visual novel was [ツユチル・レター](https://skerritt.blog/visual-novel-review-tuyutirureta-hai-tokan-niyu-yin-wo/)
 - 🌟 one of my projects was [67 lines of code and hit 1.7k ⭐ in 3 days](https://skerritt.blog/make-popular-open-source-projects/)
 - 🍶 [my ai agent checked me into a flight](https://skerritt.blog/what-my-ai-agent-did-for-me-this-week-that-wasnt-coding/) while i was a little drunk in a tokyo izakaya
 - 💾 i put [800gb of manga onto one microsd card](https://skerritt.blog/how-to-download-800gb-of-manga-and-put-it-all-onto-a-microsd-card/), just because i could
-- 🏆 i hosted a (fake) [award show for the best japanese learning tools of 2025](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
 
 <h3 align="center">📚 books i wrote</h3>
 
