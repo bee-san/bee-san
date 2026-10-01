@@ -1,0 +1,48 @@
+# Keeps the "fresh from the blog" list in README.md in sync with the 5 newest posts on
+# https://skerritt.blog/rss/ (the Ghost feed linked from the blog's <link rel="alternate">).
+# It rewrites everything between <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END -->
+# and only commits when the list actually changed.
+#
+# Scheduled runs only happen on the default branch, so this starts working once it is merged.
+# Run it by hand from the Actions tab or with: gh workflow run blog-posts.yml
+name: blog posts
+
+on:
+  schedule:
+    - cron: "23 4 * * *" # daily at 04:23 UTC (13:23 in tokyo)
+  workflow_dispatch:
+
+permissions:
+  contents: write # push the README.md update (and the keepalive commit described below)
+
+concurrency:
+  group: blog-posts
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    name: refresh latest blog posts
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the profile repo
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # blog-post-workflow sets its own token on the remote before it pushes
+          persist-credentials: false
+
+      - name: Pull the 5 newest posts from skerritt.blog
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          feed_list: "https://skerritt.blog/rss/"
+          max_post_count: "5"
+          template: "- $emojiKey(🌸,🍡,🐝,🌺,✨) [$title]($url) <sub>$date</sub>$newline"
+          date_format: "UTC:mmm d, yyyy"
+          tag_post_pre_newline: "true"
+          commit_message: "readme: refresh latest blog posts 🌸"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          # GitHub pauses cron workflows after 60 days without repo activity. If nothing has been
+          # committed for 50 days, the action makes one empty commit so the schedule keeps running.
+          enable_keepalive: "true"
+          dummy_commit_message: "readme: keep the blog-post workflow awake 🐝 (empty commit)"

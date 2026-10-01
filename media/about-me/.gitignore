@@ -1,0 +1,6 @@
+# downloads cached by tools/prepare_assets.py
+.cache/
+# local tooling / scratch output from HyperFrames
+video/node_modules/
+video/renders/
+video/snapshots/

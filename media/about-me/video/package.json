@@ -1,0 +1,11 @@
+{
+  "name": "bee-san-about-me",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assets": "python3 ../tools/prepare_assets.py",
+    "dev": "npx --yes hyperframes@0.8.104 preview",
+    "check": "npx --yes hyperframes@0.8.104 check",
+    "render": "npx --yes hyperframes@0.8.104 render --crf 20 --output ../out/about-me.mp4"
+  }
+}
