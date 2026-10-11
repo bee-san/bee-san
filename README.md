@@ -43,8 +43,6 @@
 
 <h1 align="center">hello world, i'm autumn (bee) <img src="assets/bee.gif" width="38" alt="A tiny pixel-art bee flapping its wings"></h1>
 
-<p align="center"><samp>✦ in the name of the moon, i'll decrypt you! ✦</samp></p>
-
 <!-- bio: a centred pyramid. each line is ~70px narrower than the one above it in GitHub's font
      (Mona Sans 14px: 741 → 674 → 601 → 534 → 455 → 379 → 310 → 238 → 158px), so re-measure after edits -->
 <p align="center">
