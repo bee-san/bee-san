@@ -9,7 +9,7 @@ name: blog posts
 
 on:
   schedule:
-    - cron: "23 4 * * *" # daily at 04:23 UTC (13:23 in tokyo)
+    - cron: "23 4 * * 1" # weekly, Monday 04:23 UTC (13:23 in tokyo); was daily
   workflow_dispatch:
 
 permissions:
