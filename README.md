@@ -101,41 +101,6 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
   </tr>
 </table>
 
-<h3 align="center">🌙 my many phases</h3>
-
-<p align="center"><samp>15k+ contributions since 2015, and every phase of the moon 🌑 → 🌗</samp></p>
-
-<table align="center">
-  <tr>
-    <td align="center">🌑<br><sub>2015–16</sub></td>
-    <td><b>hello world</b> · first repos: little python scripts, flash cards, a morse code text-to-speech. started learning hawaiian on duolingo 🌺</td>
-  </tr>
-  <tr>
-    <td align="center">🌒<br><sub>2017–19</sub></td>
-    <td><b>uni girl</b> · computer science at liverpool on a cyberfirst bursary, hackathons, <a href="https://github.com/bee-san/tldr-News">tl;dr news</a>, two books, and <b>ciphey is born</b> (july 2019)</td>
-  </tr>
-  <tr>
-    <td align="center">🌓<br><sub>2020</sub></td>
-    <td><b>the big bang</b> 💥 · 3,000+ contributions in one year. ciphey &amp; rustscan blow up (20k+ ⭐ each today), i join tryhackme as employee #4 and make ctf rooms</td>
-  </tr>
-  <tr>
-    <td align="center">🌔<br><sub>2021–22</sub></td>
-    <td><b>hashpals era</b> 🔗 · name-that-hash, pywhat &amp; search-that-hash, then <a href="https://github.com/bee-san/Ares">ares</a> (ciphey, but in rust). site reliability &amp; security @ monzo</td>
-  </tr>
-  <tr>
-    <td align="center">🌕<br><sub>2023–24</sub></td>
-    <td><b>security girl</b> 🛡️ · sre &amp; security @ duo / cisco, hacked anki with cisco talos (4 cves), forked cyberchef into <a href="https://cyberfork.skerritt.blog/">cyberfork</a>, ciphey at black hat</td>
-  </tr>
-  <tr>
-    <td align="center">🌖<br><sub>2025</sub></td>
-    <td><b>aloha era</b> 🌺 · moved to japan, speedran the cissp, freed every hawaiian dictionary, cyberchef maintainer duties, #2 contributor to gamesentenceminer, joined aws (ec2 networking)</td>
-  </tr>
-  <tr>
-    <td align="center">🌗<br><sub>2026</sub></td>
-    <td><b>busy bee</b> 🐝 · my biggest year ever: 6,400+ contributions so far. ciphey joins github's secure open source fund (2026 cohort) 🛡️, plus kani, hachidori, the character name dictionary and a pile of yomitan dictionaries</td>
-  </tr>
-</table>
-
 <h3 align="center">🌺 aloha! my proudest thing</h3>
 
 <table align="center">
@@ -202,18 +167,6 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
 - 📱 **[Chimahon](https://github.com/Chimahon/chimahon)** <sub>⭐ 215</sub> · mihon immersion fork with native yomitan lookup & instant anki mining · **5 merged prs**
 - 🍬 **sprinkles** · [mangatan](https://github.com/1Selxo/Mangatan) (28 merged prs), [hoshidicts](https://github.com/Manhhao/hoshidicts) (7, +3 to its rust port), [subminer](https://github.com/ksyasuda/SubMiner) (3), plus little prs to [github's advisory database](https://github.com/github/advisory-database), [owocr](https://github.com/AuroraWright/owocr), [lapis](https://github.com/donkuri/lapis), [texthooker-ui](https://github.com/Renji-XD/texthooker-ui), [awesome-rust](https://github.com/rust-unofficial/awesome-rust) & more · **130 merged prs to 32 other people's repos** in total
 
-<h3 align="center">🔮 security magic</h3>
-
-- 🕳️ **[How I Hacked Your Pi-Hole](https://github.com/bee-san/How-I-Hacked-Your-Pi-Hole)** <sub>⭐ 200</sub> · made for my tryhackme room: of 5,308 public pi-holes on shodan, 100 were vulnerable
-- 🦑 **[StegKraken](https://github.com/StegKraken/StegKraken)** <sub>⭐ 29</sub> · "the world's fastest stegcracker": a steganography brute-forcer written in rust
-- 👾 **[The Ultimate Hacking Bot](https://github.com/bee-san/discord-bot)** <sub>⭐ 11</sub> · a [discord bot](https://skerritt.blog/the-ultimate-discord-hacking-bot/) packing ciphey, ares, lemmeknow & search-that-hash, used by 5,000+ people
-- 🍴 **[CyberFork](https://github.com/bee-san/CyberFork)** <sub>⭐ 8</sub> · my cyberchef fork with extra operations merged in, like base92, jq, modhex & x.509 output · [try it](https://cyberfork.skerritt.blog/)
-- ♿ **[awesome accessible hacking](https://github.com/bee-san/awesome-accessible-hacking)** <sub>⭐ 7</sub> · infosec tools & sites that are accessible, plus my guide to [making hacking accessible](https://skerritt.blog/making-hacking-accessible/)
-- 🔤 **[gibberish-or-not](https://github.com/bee-san/gibberish-or-not)** <sub>⭐ 2</sub> · rust crate that works out if text is english or gibberish (ciphey uses it!)
-- 🕵️ i [called out an ai company](https://skerritt.blog/screenpipe-ai-company-will-harvest-your-email-against-your-permission/) for adding people who starred its repo to its marketing emails
-- 🧅 security explainers on the blog: [how tor really works](https://skerritt.blog/how-does-tor-really-work/), [diffie–hellman–merkle](https://skerritt.blog/diffie-hellman-merkle/), [hash functions for non-cryptographers](https://skerritt.blog/hash-functions-explained-for-non-cryptographers/) & [wi-fi deauth attacks](https://skerritt.blog/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack/)
-- 🎓 certified **cissp** & **iso 27001 lead auditor**
-
 <p align="center"><samp>🐛 <a href="https://skerritt.blog/anki-0day/">vulnerabilities i found</a> with cisco talos · all in anki 24.04, so beware of strange flashcards! 🃏</samp></p>
 
 - [CVE-2024-26020](https://nvd.nist.gov/vuln/detail/CVE-2024-26020) · rce through mpv script injection · **cvss 9.6 critical** 🔥
@@ -231,14 +184,6 @@ i blog at <a href="https://skerritt.blog">skerritt.blog</a> 🌸
 - ✨ [Mature card exporter for anki](https://skerritt.blog/mature-card-exporter-for-anki/) <sub>May 4, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
-
-<p align="center"><samp>🍓 fun facts</samp></p>
-
-- 🗼 i got a [japan working holiday visa as a trans woman](https://skerritt.blog/japan-working-holiday-documents/), then moved to japan to study japanese full time
-- ⏱️ **4,704 hours** of [studying japanese](https://skerritt.blog/tag/japanese/) so far, and my first finished visual novel was [ツユチル・レター](https://skerritt.blog/visual-novel-review-tuyutirureta-hai-tokan-niyu-yin-wo/)
-- 🌟 one of my projects was [67 lines of code and hit 1.7k ⭐ in 3 days](https://skerritt.blog/make-popular-open-source-projects/)
-- 🍶 [my ai agent checked me into a flight](https://skerritt.blog/what-my-ai-agent-did-for-me-this-week-that-wasnt-coding/) while i was a little drunk in a tokyo izakaya
-- 💾 i put [800gb of manga onto one microsd card](https://skerritt.blog/how-to-download-800gb-of-manga-and-put-it-all-onto-a-microsd-card/), just because i could
 
 <h3 align="center">📚 books i wrote</h3>
 
